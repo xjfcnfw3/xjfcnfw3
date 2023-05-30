@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minsu%20GitHub!&fontSize=90)
 
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjfcnfw3&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xjfcnf23)](https://solved.ac/xjfcnf23/)
 <div align=center><h2> 🛠️ Tech STACK 🛠️</h2></div>
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
