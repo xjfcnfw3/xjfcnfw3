@@ -1,7 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minsu%20GitHub!&fontSize=90)
 
-### Hi there 👋
+### Hi there 👋  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xjfcnf23)](https://solved.ac/xjfcnf23/)
+
+---
+<div align=center><h2> 📌 Activities 📌 </h2></div>
+
+- 2019.03 ~ 2024.02: Pukyong National University CSE
+- 2024.07 ~ 2024.12: BoostCamp Web & Mobile 9th  
+- 2025.06 ~ : N Tech Service  
+
+---
+
 <div align=center><h2> 🛠️ Tech STACK 🛠️</h2></div>
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
@@ -20,9 +30,10 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<br>
 </div>
-</br>
+
+---
+
 <div align=center><h2> ✈️ USE ✈️</h2></div>
 <div align=center>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
